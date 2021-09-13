@@ -1,10 +1,18 @@
 h1 {
-  font-family: Arial;
-  color: pink 
+  font-family: Times;
+  font-style: Italic;
+  color: Pink
 }
-
+li {
+  color: grey;
+  font-size:13x;
+  font-family:sans-serif;
+}
 h4 {
+  font-family: Times;
+  font-size: 13x;
   margin-bottom: 0;
+  font-style: Bold;
 }
 
 ul, ol {
@@ -13,6 +21,6 @@ ul, ol {
 
 .copyright {
   font-family: Arial;
-  font-size: 9px;
+  font-size: 10px;
   font-style: italic;
 }
